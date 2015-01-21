@@ -1,0 +1,212 @@
+*{margin:0; padding: 0}
+
+body {
+	font-family: 'Amatic SC', cursive;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+.ui-content{
+	margin: 0px auto; 
+ 	width: 640px;
+ 	height: 1136px;	
+	padding: 0em; 
+	position: relative;
+	background-image: url(../images/bg.jpg);
+    color:#ffffff;  
+    font-weight:400;
+}
+
+
+header
+{ 
+	position:fixed;
+ 	width:640px; 
+ 	height:133px; 
+	z-index:1;
+	margin: 0px auto; 
+	padding-top: 0 !important;
+}
+
+.myHeader
+{
+	background-color: black;
+	color:#ffffff;
+	font-size:85px;
+	font-weight: 400;
+	border-style: none;
+	padding-left:262px;
+	padding-top: 35px;
+	font-weight: 400;
+}
+
+#live{
+	position:absolute;
+	display: block;
+    top: 758px;
+	left:56px;
+}
+
+#dead{
+	position:absolute;
+	display: block;
+    top: 759px;
+	left:377px;
+}
+
+#questionText{
+	width: 420px;
+	position: absolute;
+	left: 108px;
+	top: 308px;
+	border-radius:0px;
+	font-size:45px;
+	font-family: 'Amatic SC', cursive;
+}
+
+.ui-page .ui-content .ui-input-text {
+    height : 618px !important;
+}​
+
+.ui-page-theme-a .ui-btn{
+	font-family: 'Amatic SC', cursive;
+	font-size:45px;	
+	border-color: none;
+}
+
+#anotherQuestion{
+	font-weight: 400;
+	width: 261px;
+	height: 79px;
+	background-color: transparent;
+	font-size:45px;
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	border-radius: 0px;
+	position: absolute;
+	left: 190px;
+	top: 985px;
+}
+
+#askAQuestion{
+	width:420px;
+	height: 228px;
+	padding-top:98px;
+	padding-left:112px;
+	font-size:46px;
+}
+
+#chooseYourStar{
+	font-size:60px;
+	padding-left:112px;
+	padding-top:137px;
+}
+
+.menuButton{
+	padding-left:179px;
+	border-style:none;
+	padding-top:35px;
+}
+
+#menuListButton{
+	padding-left:179px;
+	border-style:none;
+	padding-top:35px;
+}
+
+#myQuestionIs{
+	position:absolute;
+	top:207px;
+	left:109px;
+	font-size:64px;
+}
+
+#playVideo{
+	position: absolute; 
+	width: 417px; 
+	height: 88px; 
+	top: 958px;
+	left:109px;
+	font-size:45px;
+	font-family: 'Amatic SC', cursive;
+	border-radius: 0px;
+	background-color: rgba(255,255,255,0.2);
+	color:white;
+	border: 1px solid rgba(39, 39, 39, 0.2);
+	text-align: center;
+}
+#playVideo:first-child{
+	margin-top:25px;
+}
+
+
+.music-content{
+	margin: 0px auto; 
+ 	width:640px;
+ 	height:1136px;	
+	font-family: 'Amatic SC', cursive;
+	padding: 0em; 
+	position: relative;
+	background-image: url(../images/videobg.png);
+    color:#ffffff;
+    font-weight: 400;
+}
+
+#artistrsAnswer{
+	color:white;
+	font-size:60px;
+	position:absolute;
+	top:529px;
+	left:222px;
+}
+
+#presentVideo{
+	padding-left:57px;
+	padding-top:493px;;
+}
+
+#portret{
+	position:absolute;
+	top:207px;
+	left:200px;
+}
+
+#item-list {  
+    padding: 0;  
+    list-style-type: none;  
+    text-align: center;  
+}  
+      
+#item-list li {  
+        position:relative;  
+        width: 612px;  
+        height: 145px; 
+        margin: 13px;  
+        background-color: rgba(255,255,255,0.2);;  
+        border-radius: 0px;  
+        overflow: hidden;  
+        font-size:60px;
+}
+
+#item-list li img {
+	position:absolute;
+	top:25px;
+	left:33px;
+} 
+
+#item-list li p {
+	position:absolute;
+	top:35px;
+	left:188px;
+	font-weight: 400;
+} 
+
+
+@media only screen and (max-width:480px){
+}
+@media only screen and (min-width:481px) and (max-width:768px){}
+@media only screen and (min-width:769px){}
+
+
+
+

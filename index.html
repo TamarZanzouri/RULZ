@@ -1,0 +1,104 @@
+<!DOCTYPE html> 
+<html> 
+	<head> 
+		<title>RULEZ</title> 	
+			<!-- <meta http-equiv="refresh" content="3;URL='http://thetudors.example.com/'" > -->
+			<link href="http://fonts.googleapis.com/css?family=Amatic+SC:400" rel='stylesheet' type='text/css'>
+			<script src="includes/jquery.mobile-1.4.2.min.js"></script>
+			<link rel="stylesheet" type="text/css" href="includes/jquery.mobile-1.4.2.css">
+			<script src="includes/general_functions.js"></script>
+			
+			<link rel="stylesheet" type="text/css" href="includes/style.css">
+	</head> 
+<body> 
+		<section data-role="page" id="hp">
+		<article role="main" class="ui-content">
+			RULEZ
+		</article>
+		</section> 
+
+		<section data-role="page" id="aliveOrdead">
+			<article role="main" class="ui-content">
+				<header data-role="header" class="myHeader" >
+					RULEZ
+					<a class="menuButton" href="#artistList" data-transition="slide"><img src="images/menuButton.png"></a>
+				</header>
+				<p id="askAQuestion">
+					Ask any question you like<br> 
+					and you'll get the right and only answer from the right and only <br>
+					star - dead or alive.
+				</p>
+				<p id="chooseYourStar">CHOOSE YOUR STAR.</p>
+				<a href="#question" id="live"><img src="images/live.png"/></a>
+				<a href="#question" id="dead"><img src="images/dead.png"/></a>
+			</article>
+		</section>
+			
+		<section data-role="page" id="question">
+			<article role="main" class="ui-content">
+				<header data-role="header" class="myHeader">
+					RULEZ
+					<a class="menuButton" href="#artistList" data-transition="slide"><img src="images/menuButton.png"></a>
+				</header>
+				<p id="myQuestionIs">MY QUESTION IS:</p>
+				<form>
+					<textarea name="textarea" id="questionText"></textarea>
+					<!-- <a href="#playAnswer" id="playVideo">Send Question!</a> -->
+					<button id="playVideo">Send Question!</button>
+				</form>
+			</article>
+		</section>
+			
+		<section data-role="page" id="playAnswer">
+			<article role="main" class="music-content">
+				<header data-role="header" class="myHeader">
+					RULEZ
+					<a class="menuButton" href="#artistList" data-transition="slide"><img src="images/menuButton.png"></a>
+				</header>
+				<img src="images/amysPortret.png" id="portret"/>
+				<p id="artistrsAnswer">AMY'S ANSWER</p>
+				<article id="presentVideo">
+					<iframe id="videoUrl" width="527" height="315" frameborder="0" allowfullscreen></iframe>
+				</article>
+					<button id="anotherQuestion">ANOTHER QUESTION</button>
+			</article>
+		</section>
+		
+		<section data-role="page" id="artistList">
+			<article role="main" class="ui-content">
+				<header data-role="header" class="myHeader">
+					RULEZ
+					<a id="menuListButton" href="#"><img src="images/menuListbutton.png"></a>
+				</header>
+					              
+					<ul id="item-list">  
+					    <li>  
+					        <img src="images/amyButton.png">  
+					        <p class="title">Amy Winehouse</p>  
+					    </li>  
+					    <li>  
+					        <img src="images/kurtButton.png">  
+					        <p class="title">Kurt Cobain</p>  
+					    </li>  
+					    <li>  
+					        <img src="images/michaelButton.png">  
+					        <p class="title">Michael Jackson</p>  
+					    </li>  
+					    <li>  
+					        <img src="images/beyonceButton.png">  
+					        <p class="title">Beyonce</p>  
+					    </li>  
+					    <li>  
+					        <img src="images/rihanaButton.png">  
+					        <p class="title">Rihanna</p>  
+					    </li>  
+					    <li>  
+					        <img src="images/milyButton.png">  
+					        <p class="title">Miley Cyrus</p>  
+					    </li>  
+					</ul>  
+			</article>
+		</section>
+		
+	</body> 
+</html> 

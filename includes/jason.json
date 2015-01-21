@@ -1,0 +1,760 @@
+{
+    "Artists": [
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/My2FRPA3Gf8",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/VRuoR--LdqQ",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/W1tzURKYFNs",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/W1tzURKYFNs",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/M11SvDtPBhA",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/Hr0Wv5DJhuk",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/NG2zyeVRcbs",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/sjSG6z_13-Q",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/8wxOVn99FTE",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/iVbQxC2c3-8",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/3RSlhNJFohI",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Miley Cyrus",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/m-jRHI3INyg",
+            "play": true,
+            "image": "images/milysPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/b-3BI9AspYc",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/tg00YEETFzg",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/sEhy-RXkNo0",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/pa14VNsdSYM",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/yd8jh9QYfEs",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/e82VE8UtW8A",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/U0CGsw6h60k",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/rp4UwPZfRis",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/jlvY1o6XKwA",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/uelHwf8o7_U",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/lWA2pjMjpBs",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/rJYcmq__nDM",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/CvBfHwUxHIk",
+            "play": true,
+            "image": "rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/J3UjJ4wKLkg",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/KMOOr7GEkj8",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/nhBorPm6JjQ",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/o3mP3mJDL2k",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/JF8BRvqGCNs",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/b3HeLs8Yosw",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Rihanna",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/Z8FarCnm1mE",
+            "play": true,
+            "image": "images/rihanasPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/p1JPKLa-Ofc",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/LXXQLa-5n5w",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/3xUfCUFPL-8",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/IBe9Vtodzg4",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/rNM5HW13_O8",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/2XY3AvVgDns",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/4S37SGxZSMc",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/QczgvUDskk0",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/bnVUHWCynig",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/FHp2KgyQUFk",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/ViwtNLUqkMY",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/hbnPkK76Ask",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/XWCwc1_sYMY",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/PGc9n6BiWXA",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/Ob7vObnFUJc",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/JlxByc0-V40",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/AWpsOqh8q0M",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/VBmMU_iwe6U",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/QrOe2h9RtWI",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Beyonce",
+            "Alive": true,
+            "youtube": "//www.youtube.com/embed/bqQFdzANbF0",
+            "play": true,
+            "image": "images/beyoncesPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/KUmZp8pR1uc",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/b-I2s5zRbHg",
+            "play": true,
+            "image": "images/Miley_Cyrus.jpg"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/TJAfLE39ZZ8",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/ojdbDYahiCQ",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/nMO5Ko_77Hk",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/7CYE0DYIbaw",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/iVaqQe3V498",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/IvRnrIv3mpM",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/xdi_yuSgQw8",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/egpsoqLxkQE",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/AcMKWF5jP_k",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/_i5UL7LqkuA",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/_i5UL7LqkuA",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/bjNLCbIMzZs",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/_OFMkCeP6ok",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/_OFMkCeP6ok",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/6p_pYin6QcU",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/9MVziVfYz2w",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Amy Winehouse",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/T7DrSQWtpHQ",
+            "play": true,
+            "image": "images/amysPortret.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/sOnqjkJTMaA",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/QNJL6nfu__Q",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/Zi_XLOBDo_Y",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/HzZ_urpj4As",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/dsUXAEzaC3Q",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/oRdxUFDoQe0",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/pAyKJAtDNCw",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/1-7ABIM2qjU",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/LeiFF0gvqcc",
+            "play": true,
+            "image": "michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/yURRmWtbTbo",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/F2AitTPI5U0",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/BWf-eARnf6U",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/oG08ukJPtR8",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/0P4A1K4lXDo",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/c3_NntYhzV4",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/zbl_ctRj8C8",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/ENC5MEzrRp8",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/JbHI1yI1Ndk",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "Michael Jackson",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/xDLykurJIMA",
+            "play": true,
+            "image": "images/michaelsPortretl.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/vabnZ9-ex7o",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/pkcJEvMcnEg",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/n6P0SitRwy8",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/PbgKEjNBHqM",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/QECJ9pCyhns",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/Ee6xkwVucIE",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/5BE1KRj5iiM",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/Rkqjx6Gsh0U",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/IDrUoUldJBM",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/HMDGO8RjJEg",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/lhPAkjqNHIY",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/1H7W6ZQG0xo",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/xQsI-5dRwcM",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/pUOdoTa4crc",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/uT1BuLYt2RU",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/nEJy3RqvT3Q",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/BclF_uQ5hTQ",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        },
+        {
+            "name": "kurt Cobain",
+            "Alive": false,
+            "youtube": "//www.youtube.com/embed/x_tcoBOn6Mk",
+            "play": true,
+            "image": "images/kurtsPortret.png"
+        }
+    ]
+}
